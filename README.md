@@ -4,15 +4,19 @@ A repository for IT study notes and progress.
 
 ---
 
-### 📌 About
+## 📌 About
 This repo is for recording my IT learning journey, study notes, and small experiments.
-
-### 🛠 Topics
-- Computer basics & certifications
-- Programming practice
-- Git & GitHub usage
-- Small projects and experiments
 
 ---
 
-🌙 Learning in public.
+## 🛠 Topics
+- Computer basics & certifications  
+- Programming practice  
+- Git & GitHub usage  
+- Small projects and experiments  
+
+---
+
+🌙 Learning in public.  
+
+➡️ [Go to Study Notes Index](./index.md)
