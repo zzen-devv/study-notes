@@ -1,6 +1,6 @@
 # Study Notes Index
 
-## 📂 Comp-cert
+## 📂 Computer-certificate
 - [Day 1](comp-cert/day-01.md)
 - [Day 2](comp-cert/day-02.md)
 - [Day 3](comp-cert/day-03.md)
