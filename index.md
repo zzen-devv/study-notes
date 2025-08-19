@@ -1,6 +1,6 @@
 # Study Notes Index
 
-## 📂 Comp-cert (컴활 2급)
+## 📂 Comp-cert
 - [Day 1](comp-cert/day-01.md)
 - [Day 2](comp-cert/day-02.md)
 - [Day 3](comp-cert/day-03.md)
