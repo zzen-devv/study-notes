@@ -14,7 +14,7 @@
 - 작업관리자(Ctrl+Shift+Esc 또는 Ctrl+Alt+Delete -> 작업관리자 실행)
 
 ## ✅ 오늘의 성과
-- 
+- Windows 탐색기 기능
 
 ## 🎯 내일 목표
 - 
