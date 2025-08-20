@@ -16,7 +16,7 @@
 - CMD(명령 프롬프트) 명령어 : PING, TRACERT, IPCONFIG, NETSTAT
 
 ## ✅ 오늘의 성과
-- 2. 3. 4강 완료
+- 2, 3, 4강 완료
 - 제어판 기능 습득
 - CMD 명령어 습득
 
