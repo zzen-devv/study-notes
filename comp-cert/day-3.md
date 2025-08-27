@@ -3,7 +3,7 @@
 ## 📌 오늘 공부한 범위
 - 5강 수강
 
-## 📝 오늘 배운 내용 정리
+## 📝 오늘 배운 내용
 - 문자 코드 종류 (BCD, ASCII, EBCDIC, Uni Code)
 - 에러 검사 비트 (패리티 비트, 해밍 코드, 순환 중복 검사, 블록합 검사)
 - 정보 표현 단위 (Bit-Nibble-Byte-Word-Field-Record-File-DataBase)
