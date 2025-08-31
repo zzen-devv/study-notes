@@ -10,7 +10,7 @@
 ### Python
 - [Day 1](programming/python/day-1.md)
 
-### Web
+## 📂 Web
 - [Day 1](programming/web/day-1.md)
 
 ## 📂 Etc (기타)
