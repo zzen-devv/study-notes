@@ -9,7 +9,6 @@
 ## 📂 Programming
 ### Python
 - [Day 1](programming/python/day-1.md)
-- [Day 2](programming/python/day-2.md)
 
 ### Web
 - [Day 1](programming/web/day-1.md)
