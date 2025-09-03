@@ -10,13 +10,11 @@ This repo is for recording my IT learning journey, study notes, and small experi
 ---
 
 ## 🛠 Topics
-- Computer basics & certifications  
-- Programming practice  
-- Git & GitHub usage  
-- Small projects and experiments  
+- Computer basics & certifications
+- Programming practice
+- Git & GitHub usage
+- Small projects and experiments
 
 ---
-
-🌙 Learning in public.  
 
 ➡️ [Go to Study Notes Index](./index.md)
