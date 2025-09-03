@@ -12,7 +12,3 @@
 
 ### Web
 - [Day 1](programming/web/day-1.md)
-
-## 📂 Etc
-- [Reading List](etc/reading-list.md)
-- [Cheat Sheets](etc/cheat-sheets.md)
